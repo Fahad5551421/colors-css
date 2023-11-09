@@ -1,0 +1,41 @@
+/* COLOR NAME */
+/* h1{
+    color: red;
+} */
+
+/*  HEX CODE */
+ /* h1{
+    color: #de0e0e;
+}  */
+
+/*  RGB */
+/* h1{
+color: rgb(15, 214, 135);
+} */
+
+/*  BACKGROUND COLOR */
+/* body{
+    background-color: #558a35;
+} */
+
+/*  BACKGROUND COLOR */
+/* body{
+    background-color:purple;
+    color: orangered;
+} */
+
+/* div{
+    background-color: blue;
+    color:yellow;
+} */
+
+/* OPACITY */
+/* #div1{
+    background-color: brown;
+    opacity: 0.6;
+} */
+
+
+img{
+    opacity: 0.7;
+}
